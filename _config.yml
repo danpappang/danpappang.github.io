@@ -1,11 +1,10 @@
-title: dash
-author: GitHub User
+title: danpappang
+author: danpappang
 email: miguel-gonzalez@gmx.de
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-show_excerpts: false # set to true to show excerpts on the homepage
+  N3wbu1 f0r everu1ithing_
+  BoB 11th Digital Forensic
+show_excerpts: true # set to true to show excerpts on the homepage
 
 paginate: 1
 paginate_path: "/blog/page:num/"
@@ -22,7 +21,7 @@ dash:
 
   # (optional) discqus comment configuration
   disqus:
-    shortname: bitbrain-github-io
+    shortname: danpappang-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
