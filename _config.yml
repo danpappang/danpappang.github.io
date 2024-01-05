@@ -52,7 +52,7 @@ dash:
   #avatar_path: /assets/avatar.png
 
 # Build settings
-theme: jekyll-dash
+remote-theme: bitbrain/jekyll-dash
 
 plugins:
  - jekyll-feed
