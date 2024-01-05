@@ -1,6 +1,6 @@
 title: danpappang
 author: danpappang
-email: miguel-gonzalez@gmx.de
+email: danpappang@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   N3wbu1 f0r everu1ithing_
   BoB 11th Digital Forensic
@@ -26,10 +26,10 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/bitbrain_
+    - url: https://twitter.com/d4np4pp4ng
       icon: twitter-square
       color: cyan
-    - url: https://bitbrain.itch.io
+    - url: https://danpappang.github.io
       icon: itch-io
       color: red
     - url: https://github.com/bitbrain
